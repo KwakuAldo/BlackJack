@@ -7,7 +7,7 @@ let messageEl = document.getElementById("message-el");
 let cardsEl = document.getElementById("cards-el");
 let sumEl = document.getElementById("sum-el"); //document.querySelector("#sum-el")
 let player = {
-    name: "Aldo",
+    name: "Player",
     chips: 145
 }
 
