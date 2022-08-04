@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #027A3A;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+p {
+    color: #fff;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+.btn {
+    background-color: goldenrod;
+    color: #016f32;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.start-game {
+    margin-bottom: 5px;
+}
